@@ -13,4 +13,9 @@ site_areas:
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Step title
+  - title: Selecting objects
+  - title: Adding objects
+  - title: Create a tree trunk
+  - title: Add branches and leaves
+  - title: Render
+  - title: "Challenge: pine tree"
