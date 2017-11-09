@@ -4,7 +4,7 @@ To create a tree trunk we need to resize the cube. For this we'll be using the b
 
 ![Blender arrow ends](images/arrow-ends.png)
 
-The handles have an arrow which means that with these handles you can move the cube along the x-axis, the y-axis and the z-axis.
+The handles have an arrow which means that using these handles you can move the cube along the x-axis, the y-axis and the z-axis.
 
 You can also change what these handles do. For this you can use the panel at the bottom of the 3D view.
 
@@ -14,11 +14,11 @@ Instead of arrows we can have cubes at the end by selecting the cube end from th
 
 ![Blender handles](images/blender-handles-menu-2.png)
 
-+ Select the cube end from the menu. The handles should have cube ends.
++ Select the cube end from the menu. The handles should now have cube ends.
 
 ![Blender cube ends](images/blender-cube-ends.png)
 
-This allows you to squeeze and stretch the cube into whatever shape you want it to be.
+The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be.
 
 + Squeeze and stretch the cube in a way that it starts to look like a tree trunk. For example:
 
@@ -28,4 +28,4 @@ This allows you to squeeze and stretch the cube into whatever shape you want it 
 
 ![Blender squish](images/blender-squish-3.png)
 
-+ Rotate around to see whether the tree trunk looks okay, and if not squeeze and stretch it a bit more.
++ Rotate the view around to see whether the tree trunk looks okay, and if not squeeze and stretch it a bit more.

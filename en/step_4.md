@@ -2,11 +2,11 @@
 
 Let's see how we can add objects. We'll remove the cube and add it again.
 
-+ Select the cube with the right mouse. Check for the orange border.
++ Select the cube with the right mouse button. Check for the orange border.
 
 + Press <kbd>X</kbd> to delete the cube.
 
-+ You'll be asked whether its okay to delete the object.
++ You'll be asked whether you want to delete the object.
 
     ![Delete object](images/delete-object.png)
 
