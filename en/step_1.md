@@ -6,7 +6,9 @@ Learn how to resize objects in Blender by creating a simple tree of cubes.
 
 Here is how your finished piece will look:
 
-[Add sketchfab here ]
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/0e62596168f84ea0a40b4644c4ecc3f2/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+</div>
 
 ### What you will learn
 

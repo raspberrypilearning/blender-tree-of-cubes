@@ -12,7 +12,7 @@ It could be that you don't see the tree properly. Or perhaps it doesn't look ver
 
 + If the tree didn't look very tree like, you might want to rearrange the cubes a bit.
 
-+ If your tree didn't fit into the camera's view, move it so that it shows up properly through the camera.
++ If your tree didn't fit into the camera's view, move the camera so that the tree shows up properly through the camera.
 
 + Hit <kbd>F12</kbd> again or, if you're working on a Mac, <kbd>FN + F12</kbd> to see the rendered image.
 
