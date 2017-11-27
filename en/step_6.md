@@ -1,10 +1,12 @@
 ## Add branches and leaves
 
-Let's add some branches and leaves. For this we need to add some more cubes. But first, notice there is a small circle in the cube.
+Let's add some branches and leaves. For this, we need to add some more cubes which will be our leafy branches.
+
++ First, notice there is a small circle in the cube.
 
 ![3D cursor](images/blender-3d-cursor.png)
 
-If you left-click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. It means that when you add an object, the object will be placed at the location of the 3D cursor.
+If you left-click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
 
 + Make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
 
