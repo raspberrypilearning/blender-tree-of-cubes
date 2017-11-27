@@ -1,6 +1,6 @@
 ## Add branches and leaves
 
-Let's add some branches and leaves. For this, we need to add some more cubes which will be our leafy branches.
+Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
 
 + First, notice there is a small circle in the cube.
 
