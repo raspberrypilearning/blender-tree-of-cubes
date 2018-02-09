@@ -10,7 +10,7 @@ Let's see how we can add objects. We'll remove the cube and add it again.
 
 + Select **Delete** or press <kbd>Enter</kbd> to delete it.
 
-+To add a cube, go to the left-hand panel, called the **Toolbox**, click on the **Create** tab, and then select **Cube**.
++ To add a cube, go to the left-hand panel, called the **Toolbox**, click on the **Create** tab, and then select **Cube**.
 
 ![Select cube](images/select-cube.png)
 
