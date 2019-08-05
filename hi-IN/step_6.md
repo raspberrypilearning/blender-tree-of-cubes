@@ -1,35 +1,35 @@
-## Add branches and leaves
+## शाखाएँ और पत्तियाँ जोड़ें
 
-Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
+आइए कुछ शाखाएँ और पत्तियाँ जोड़ें। इसके लिए, हमें अपनी पत्तेदार शाखाओं के रूप में कुछ और क्यूब जोड़ने होंगे।
 
-+ First, notice there is a small circle in the cube.
++ सबसे पहले, ध्यान दें कि क्यूब में एक छोटा घेरा है।
 
-![3D cursor](images/blender-3d-cursor.png)
+![3D कर्सर](images/blender-3d-cursor.png)
 
-If you left-click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
+यदि आप 3D व्यू में कहीं भी बायाँ-क्लिक करते हैं, तो घेरा उस स्थान पर रखा जाएगा। यह 3D कर्सर है। जब आप कोई वस्तु जोड़ते हैं, तो वह वस्तु 3D कर्सर के स्थान पर रखी जाएगी।
 
-+ Make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
++ सुनिश्चित करें कि आपका माउस कहीं भी 3D व्यू के अंदर है और बायाँ-क्लिक करें - इसे पेड़ के तने के नज़दीक रखने से आसानी हो सकती है। ध्यान दें कि 3D कर्सर उस स्थिति पर है जहाँ आपने क्लिक किया था।
 
-+ Add a cube by selecting **Create** > **Cube** from the **Toolbox** on the left-hand panel.
++ बाईं ओर के पैनल पर **Toolbox** से **Create** > **Cube** का चयन करके क्यूब जोड़ें।
 
-+ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. For example:
++ 3D व्यू में कहीं और क्लिक करें (लेकिन अभी भी पेड़ तने के नज़दीक) और एक और क्यूब जोड़ें। उदाहरण के लिए:
 
-![Blender 2 cubes](images/blender-2-cubes.png)
+![Blender 2 क्यूब](images/blender-2-cubes.png)
 
-+ Once again, click somewhere else in the 3D view and add another cube.
++ एक बार फिर, 3D व्यू में कहीं और क्लिक करें और एक और क्यूब जोड़ें।
 
-Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
+अब 3D व्यू में तीन क्यूब हैं। क्यूब पेड़ के तने के शीर्ष पर ले जाने के लिए आप नीले, हरे और लाल हैंडल का फिर से उपयोग कर सकते हैं जिससे वह एक पेड़ जैसा दिखाई दे।
 
-+ From the menu below the 3D view, select the arrow ends so that you can move the cubes.
++ 3D व्यू के नीचे दिए गए मेनू से, तीर के सिरों का चयन करें ताकि आप क्यूब दूसरी जगह ले जा सकें।
 
-![Handles](images/blender-handles-menu-1.png)
+![हैंडल](images/blender-handles-menu-1.png)
 
-+ Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
++ पेड़ जैसी व्यवस्था में क्यूब को पेड़ के तने के शीर्ष पर ले जाएँ। उदाहरण के लिए:
 
-![Blender tree](images/blender-tree-1.png)
+![Blender पेड़](images/blender-tree-1.png)
 
-+ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. For example:
++ माउस के बीच वाले बटन का उपयोग करके 3D व्यू को घुमाएँ और जाँच करें कि पेड़ सभी कोणों से ठीक दिखता है, जहाँ ज़रूरी हो वहाँ फेर-बदल करें। उदाहरण के लिए:
 
-![Blender tree](images/blender-tree-2.png)
+![Blender पेड़](images/blender-tree-2.png)
 
-The image above shows that the cubes are not positioned properly on the tree trunk.
+उपरोक्त छवि से पता चलता है कि पेड़ के तने पर क्यूब ठीक जगह पर नहीं रखे गए हैं।
