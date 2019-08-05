@@ -1,17 +1,17 @@
-## Selecting objects
+## वस्तुओं का चयन करना
 
-When you open Blender, you will see a splash screen. The splash screen of Blender 2.76 looks like this:
+जब आप Blender खोलेंगे, तो आपको एक स्प्लैश स्क्रीन दिखाई देगी। Blender v2.76 की स्प्लैश स्क्रीन इस तरह दिखती है:
 
-![Splash screen](images/splash-screen.png)
+![स्प्लैश स्क्रीन](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+इस ट्यूटोरियल के लिए हमें स्प्लैश स्क्रीन की आवश्यकता नहीं होगी।
 
-+ Click to the right, and the Splash screen will disappear.
++ दाईं ओर क्लिक करें, और स्पलैश स्क्रीन गायब हो जाएगी।
 
-Now you'll see the 3D view. In the 3D view you have three objects: the lamp, the cube, and the camera.
+अब आप 3D व्यू देखेंगे। 3D व्यू में आपके पास तीन वस्तुएँ हैं: लैंप, क्यूब, और कैमरा।
 
-![3D view](images/3d-view.png)
+![3D व्यू](images/3d-view.png)
 
-You can select the objects by right-clicking on them. An orange border appears surrounding the selected object. In the image above, the cube is selected.
+आप वस्तुओं पर राइट-क्लिक करके उनका चयन कर सकते हैं। चयनित वस्तु के आस-पास एक नारंगी बॉर्डर दिखाई देता है। उपर्युक्त छवि में, क्यूब का चयन किया गया है।
 
-+ Right-click on the camera, the cube, or the lamp. If an object is correctly selected, there will be an orange border around it.
++ कैमरा, क्यूब, या लैंप पर राइट-क्लिक करें। यदि किसी वस्तु का चयन सही तरीके से किया गया है, तो उसके चारों ओर एक नारंगी बॉर्डर होगा।
