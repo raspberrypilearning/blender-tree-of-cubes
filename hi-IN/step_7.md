@@ -1,21 +1,21 @@
-## Render
+## प्रस्तुत करना
 
-To see how your tree looks, you need to see it from the perspective of the camera by rendering the image:
+यह देखने के लिए कि आपका पेड़ कैसा दिखता है, आपको छवि को प्रस्तुत करके इसे कैमरे की दृष्टि से देखना होगा:
 
-+ Press <kbd>F12</kbd> or, if you're working on a Mac, <kbd>FN + F12</kbd>.
++ <kbd>F12</kbd> दबाएँ या, यदि आप मैक का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबाएँ।
 
-It could be that you don't see the tree properly, or perhaps it doesn't look very tree-like from the camera view. For example:
+हो सकता है कि आपको पेड़ ठीक से न दिखे, या शायद यह कैमरे के दृश्य से ज़्यादा पेड़ जैसा न दिखता हो। उदाहरण के लिए:
 
-![Tree render](images/blender-tree-render-1.png)
+![पेड़ की प्रस्तुति](images/blender-tree-render-1.png)
 
-+ Press <kbd>ESC</kbd> to exit the view.
++ दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
 
-+ If the tree didn't look very tree-like, you might want to rearrange the cubes a bit.
++ अगर पेड़ ज़्यादा पेड़ जैसा न दिखता हो, तो आप क्यूब थोड़े से पुनर्व्यवस्थित करना चाहेंगे।
 
-+ If your tree didn't fit into the camera's view, move the camera so that the tree shows up properly through the camera.
++ यदि आपका पेड़ कैमरा के दृश्य में फिट नहीं हुआ है, तो कैमरे को हिलाएँ ताकि कैमरे में से पेड़ ठीक से दिखाई दे।
 
-+ Hit <kbd>F12</kbd> again or, if you're working on a Mac, <kbd>FN + F12</kbd> to see the rendered image.
++ प्रस्तुत छवि देखने के लिए फिर से <kbd>F12</kbd> दबाएँ या, यदि आप मैक पर काम कर रहे हैं तो <kbd>FN + F12</kbd> दबाएँ।
 
-![Tree render](images/blender-tree-render-2.png)
+![पेड़ की प्रस्तुति](images/blender-tree-render-2.png)
 
-You can also play around with the lamp to improve the lighting of your tree.
+आप अपने पेड़ की रोशनी में सुधार करने के लिए लैंप के साथ भी कुछ नया प्रयोग कर सकते हैं।
