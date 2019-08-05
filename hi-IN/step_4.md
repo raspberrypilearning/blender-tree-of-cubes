@@ -1,17 +1,17 @@
-## Adding objects
+## वस्तुएँ जोड़ना
 
-Let's see how we can add objects. We'll remove the cube and add it again.
+आइए देखते हैं कि हम वस्तुएँ किस तरह जोड़ सकते हैं। हम क्यूब को निकाल देंगे और उसे फिर से जोड़ेंगे।
 
-+ Select the cube with the right mouse button. Check for the orange border.
++ दाएँ माउस बटन से क्यूब का चयन करें। देखें कि नारंगी बॉर्डर है।
 
-+ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
++ <kbd>X</kbd> को दबाएँ। आपसे पूछा जाएगा कि क्या आप वस्तु को हटाना चाहते हैं।
     
-    ![Delete object](images/delete-object.png)
+    ![वस्तु को हटाएँ](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd> to delete it.
++ इसे हटाने के लिए **Delete** का चयन करें या <kbd>Enter</kbd> दबाएँ।
 
-+ To add a cube, go to the left-hand panel, called the **Toolbox**, click on the **Create** tab, and then select **Cube**.
++ कोई क्यूब जोड़ने के लिए, बाईं ओर **Toolbox** नाम के पैनल पर जाएँ, 0>Create</strong> टैब पर क्लिक करें, और फिर **Cube** का चयन करें।
 
-![Select cube](images/select-cube.png)
+![क्यूब का चयन करें](images/select-cube.png)
 
-A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
+3D व्यू में एक क्यूब दिखाई देगा। अब हम क्यूब्स से पेड़ बनाने की कोशिश करेंगे।
