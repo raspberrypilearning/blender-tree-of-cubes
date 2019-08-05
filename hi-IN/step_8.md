@@ -1,7 +1,7 @@
-## Challenge: pine tree
+## चुनौती: देवदार का पेड़
 
-+ Create a pine tree like this one:
++ इस तरह का देवदार का पेड़ बनाएँ:
 
-![Pine tree](images/blender-pine-tree.png)
+![देवदार का पेड़](images/blender-pine-tree.png)
 
-+ Add some apples to your tree.
++ अपने पेड़ पर कुछ सेब जोड़ें।
