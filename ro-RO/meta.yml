@@ -1,0 +1,26 @@
+---
+title: Copac din cuburi
+hero_image: images/banner.png
+description: Învață cum să redimensionezi obiecte în Blender creând un copac simplu format din cuburi
+theme: yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: weather, art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introducere
+  - title: Ce vei avea nevoie
+  - title: Selectarea obiectelor
+  - title: Adăugarea obiectelor
+  - title: Creează un trunchi de copac
+  - title: Adaugă ramuri și frunze
+  - title: Randare
+  - title: "Provocare: creează un brad"
