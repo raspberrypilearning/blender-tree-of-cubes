@@ -1,0 +1,17 @@
+## Selecting objects
+
+When you open Blender, you will see a splash screen. The splash screen of Blender 2.76 looks like this:
+
+![Splash screen](images/splash-screen.png)
+
+Voor deze tutorial hebben we geen splash scherm nodig.
+
++ Click to the right, and the Splash screen will disappear.
+
+Now you'll see the 3D view. In the 3D view you have three objects: the lamp, the cube, and the camera.
+
+![3D view](images/3d-view.png)
+
+You can select the objects by right-clicking on them. An orange border appears surrounding the selected object. In the image above, the cube is selected.
+
++ Right-click on the camera, the cube, or the lamp. If an object is correctly selected, there will be an orange border around it.
