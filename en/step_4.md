@@ -1,17 +1,27 @@
-## Adding objects
+## Create a tree trunk
 
-Let's see how we can add objects. We'll remove the cube and add it again.
+To create a tree trunk, we need to resize the cube. For this we'll be using the gizmo tools on the left side of your screen.
 
-+ Select the cube with the right mouse button. Check for the orange border.
+![Blender gizmos](images/gizmos.png)
 
-+ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
+Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis.
 
-    ![Delete object](images/delete-object.png)
+You can also change what these handles do. For this you can use the other gizmo tools in the menu on the left of your screen.
 
-+ Select **Delete** or press <kbd>Enter</kbd> to delete it.
+Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
 
-+ To add a cube, go to the left-hand panel, called the **Toolbox**, click on the **Create** tab, and then select **Cube**.
+![Scale gizmo](images/scale-gizmo.png)
 
-![Select cube](images/select-cube.png)
++ Select the scale gizmo from the menu. The handles should then have cube ends.
 
-A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
+![Blender cube ends](images/blender-cube-ends.png)
+
++ Squeeze and stretch the cube so that it starts to look like a tree trunk. For example:
+
+![Blender squish](images/blender-squish-1.png)
+
+![Blender squish](images/blender-squish-2.png)
+
+![Blender squish](images/blender-squish-3.png)
+
++ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.

@@ -1,17 +1,17 @@
-## Selecting objects
+## Adding objects
 
-When you open Blender, you will see a splash screen. The splash screen of Blender 2.76 looks like this:
+Let's see how we can add objects. We'll remove the cube and add it again.
 
-![Splash screen](images/splash-screen.png)
++ Select the cube with the left mouse button. Check for the orange border.
 
-For this tutorial we won't be needing the splash screen.
++ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
 
-+ Click to the right, and the Splash screen will disappear.
+    ![Delete object](images/delete-object.png)
 
-Now you'll see the 3D view. In the 3D view you have three objects: the lamp, the cube, and the camera.
++ Select **Delete** or press <kbd>Enter</kbd> to delete it.
 
-![3D view](images/3d-view.png)
++ To add a cube, go to the **Add** dropdown menu and click on the **Mesh** section, and then select **Cube**.
 
-You can select the objects by right-clicking on them. An orange border appears surrounding the selected object. In the image above, the cube is selected.
+![Select cube](images/select-cube.png)
 
-+ Right-click on the camera, the cube, or the lamp. If an object is correctly selected, there will be an orange border around it.
+A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
