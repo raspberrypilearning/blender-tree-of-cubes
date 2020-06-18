@@ -1,17 +1,17 @@
-## Adding objects
+## Gegenstände hinzufügen
 
-Let's see how we can add objects. We'll remove the cube and add it again.
+Schau Dir an, wie wir Gegenstände hinzufügen können. Wir werden den Würfel entfernen und ihn erneut hinzufügen.
 
-+ Select the cube with the left mouse button. Check for the orange border.
++ Wähle den Würfel mit der linken Maustaste aus. Überprüfe den orangefarbenen Rand.
 
-+ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
++ Drücke <kbd>X</kbd>. Du wirst gefragt, ob du den Gegenstand löschen willst.
     
-    ![Delete object](images/delete-object.png)
+    ![Gegenstände löschen](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd> to delete it.
++ Wähle **Delete** (Löschen) oder drücke <kbd>Enter</kbd>, um es zu löschen.
 
 + To add a cube, go to the **Add** dropdown menu and click on the **Mesh** section, and then select **Cube**.
 
-![Select cube](images/select-cube.png)
+![Würfel auswählen](images/select-cube.png)
 
-A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
+In der 3D-Ansicht wird ein Würfel angezeigt. Jetzt werden wir versuchen, einen Baum aus Würfeln zu erstellen.
