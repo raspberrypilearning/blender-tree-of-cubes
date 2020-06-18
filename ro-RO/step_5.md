@@ -1,29 +1,35 @@
-## Creează un trunchi de copac
+## Add branches and leaves
 
-Pentru a crea un trunchi de copac, trebuie să redimensionăm cubul. Pentru a realiza acest lucru, vom folosi săgețile colorate cu albastru, verde și roșu.
+Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
 
-![Capetele săgeților din Blender](images/arrow-ends.png)
++ First, notice there is a small circle in the cube.
 
-Cu ajutorul acestor săgeți, poți deplasa cubul de-a lungul axei x, axei y sau axei z. Fiecare săgeată are un vârf îndreptat în direcția axei sale /
+![3D cursor](images/blender-3d-cursor.png)
 
-De asemenea, poți schimba ceea ce fac aceste săgeți. Pentru a realiza acest lucru, poți utiliza meniul din partea de jos a vizualizării 3D.
+If you click on the same symbol from the menu on the left and then click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
 
-![Săgeți Blender](images/blender-handles-menu-1.png)
++ Select this Cursor tool and make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
 
-În loc de săgeți, putem avea cuburi la capetele lor prin selectarea acestei opțiuni din meniu. Capetele sageților îți permit să strângi și să întinzi cubul aducându-l orice formă dorești!
++ Add a cube by selecting **Mesh** > **Cube** from the **Add** dropdown menu.
 
-![Mânere Blender](images/blender-handles-menu-2.png)
++ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. For example:
 
-+ Selectează din meniu capetele sub formă de cub. În acest moment, săgețile tale ar trebui să aibă la capete cuburi.
+![Blender 2 cubes](images/blender-2-cubes.png)
 
-![Capetele cuburilor din Blender](images/blender-cube-ends.png)
++ Once again, click somewhere else in the 3D view and add another cube.
 
-+ Strânge și întinde cubul tău astfel încât acesta să arate ca un trunchi de copac. De exemplu:
+Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
 
-![Micșorare în Blender](images/blender-squish-1.png)
++ From the menu below the 3D view, select the move gizmo so that you can move the cubes.
 
-![Micșorare în Blender](images/blender-squish-2.png)
+![Move gizmo](images/gizmos.png)
 
-![Micșorare în Blender](images/blender-squish-3.png)
++ Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
 
-+ Rotește vizualizarea pentru a vedea dacă trunchiul copacului arată bine și, dacă nu, micșorează-l și întinde-l până ajungi la forma dorită.
+![Blender tree](images/blender-tree-1.png)
+
++ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. For example:
+
+![Blender tree](images/blender-tree-2.png)
+
+The image above shows that the cubes are not positioned properly on the tree trunk.
