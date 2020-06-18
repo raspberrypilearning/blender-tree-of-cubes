@@ -1,35 +1,21 @@
-## Adăugă ramuri și frunze
+## Render
 
-Hai să adăugăm niște ramuri și frunze. Pentru asta, va trebui să adăugăm mai multe cuburi ca să umplem ramurile de frunze.
+To see how your tree looks, you need to see it from the perspective of the camera by rendering the image:
 
-+ În primul rând, vei observa că există un cerc mic în cub.
++ Press <kbd>F12</kbd> or, if you're working on a Mac, <kbd>FN + F12</kbd>.
 
-![Cursor 3D](images/blender-3d-cursor.png)
+It could be that you don't see the tree properly, or perhaps it doesn't look very tree-like from the camera view. For example:
 
-Dacă vei da click stânga undeva în vizualizarea 3D, cercul va fi plasat în acea locație. Acesta este cursorul 3D. Când adaugi un obiect, obiectul va fi plasat în locația cursorului 3D.
+![Tree render](images/blender-tree-render-1.png)
 
-+ Asigură-te că ai cursorul undeva în interiorul vizualizării 3D și dă click stânga — ar putea fi mai util mai aproape de trunchiul arborelui. Observă că vei avea cursorul 3D în poziția în care ai dat click.
++ Press <kbd>ESC</kbd> to exit the view.
 
-+ Adăugă un cub selectând **Create** > **Cube** din **Toolbox** din meniul de pe partea stângă.
++ If the tree didn't look very tree-like, you might want to rearrange the cubes a bit.
 
-+ Dă click în altă parte în vizualizarea 3D (preferabil tot lângă trunchiul copacului) și adăugă un alt cub. De exemplu:
++ If your tree didn't fit into the camera's view, move the camera so that the tree shows up properly through the camera.
 
-![Cuburi în Blender 2](images/blender-2-cubes.png)
++ Hit <kbd>F12</kbd> again or, if you're working on a Mac, <kbd>FN + F12</kbd> to see the rendered image.
 
-+ Vei da iarăși click, în alt loc în vizualizarea 3D și vei adăuga astfel un cub nou.
+![Tree render](images/blender-tree-render-2.png)
 
-Acum există trei cuburi în vizualizarea 3D. Poți utiliza din nou săgețile pentru a deplasa cuburile corespunzător în jurul trunchiului pentru a-l face să pară un copac.
-
-+ Din meniul de sub vizualizarea 3D, selectează capetele săgeților pentru a putea muta cuburile.
-
-![Săgețile](images/blender-handles-menu-1.png)
-
-+ Deplasează cuburile deasupra trunchiului copacului într-un aranjament asemănător coroanei unui copac. De exemplu:
-
-![Copac în Blender](images/blender-tree-1.png)
-
-+ Rotește vizualizarea 3D utilizând butonul mijlociu al mouse-ului și verifică dacă arborele arată bine din toate unghiurile, ajustând acolo unde consideri necesar. De exemplu:
-
-![Copac în Blender](images/blender-tree-2.png)
-
-În imaginea de mai sus, cuburile nu sunt poziționate corespunzător pe trunchiul copacului.
+You can also play around with the lamp to improve the lighting of your tree.
