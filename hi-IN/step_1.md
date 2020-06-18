@@ -6,24 +6,42 @@
 
 यहाँ देखें कि आपका तैयार पीस कैसा दिखाई देगा:
 
-<div class="sketchfab-embed-wrapper">
-  <iframe width="640" height="480" src="https://sketchfab.com/models/0e62596168f84ea0a40b4644c4ecc3f2/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/0e62596168f84ea0a40b4644c4ecc3f2/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-### आप क्या सीखेंगे
+## \--- collapse \---
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है:
+## title: "What you will learn"
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [डिज़ाइन बेसिक 2D और 3D सामग्री](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
 
-### शिक्षकों के लिए अतिरिक्त जानकारी
+\--- /collapse \---
 
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blender-tree-of-cubes/print){:target="_blank"} का उपयोग करें।
+## \--- collapse \---
 
-इस प्रोजेक्ट के लिए GitHub रिपॉज़िटरी का उपयोग करने के लिए फुटर में दिए लिंक का उपयोग करें, जिसमें 'en/resources' फोल्डर में सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) सम्मिलित हैं।
+## title: "What you will need"
 
-यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/Urh8iActMqA?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+### Hardware
 
-### लाइसेंस
++ A desktop or laptop computer capable of running the Blender software
 
-***क्यूब्स का पेड़*** 3Dami और b3d101 द्वारा, पीटर केम्प, टॉम हैन्स, मोनिक दीवानचंद [क्रिएटिव कॉमन्स एट्रीब्यूशन 4.0 अंतर्राष्ट्रीय लाइसेंस](http://creativecommons.org/licenses/by-sa/4.0/) के अंतर्गत लाइसेंस प्राप्त है।
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
+
+### Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-tree-of-cubes/print){:target="_blank"}.
+
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/BvMwAQ2cXWg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+
+### License
+
+***Tree of cubes*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
