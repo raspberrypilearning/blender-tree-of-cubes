@@ -1,7 +1,7 @@
-## Challenge: pine tree
+## Herausforderung: Kiefernbaum
 
-+ Create a pine tree like this one:
++ Erstelle eine Kiefer wie diese:
 
-![Pine tree](images/blender-pine-tree.png)
+![Kiefer](images/blender-pine-tree.png)
 
-+ Add some apples to your tree.
++ Füge ein paar Äpfel zu deinem Baum hinzu.
