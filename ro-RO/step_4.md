@@ -1,17 +1,27 @@
-## Adăugarea obiectelor
+## Create a tree trunk
 
-Să vedem cum putem adăuga obiecte. Vom scoate cubul și îl vom adăuga din nou.
+To create a tree trunk, we need to resize the cube. For this we'll be using the gizmo tools on the left side of your screen.
 
-+ Selectează cubul cu butonul drept al mouse-ului. Verifică prezența marginii portocalii.
+![Blender gizmos](images/gizmos.png)
 
-+ Apăsă <kbd>X</kbd>. Vei fi întrebat dacă dorești să ștergi obiectul.
-    
-    ![Șterge obiectul](images/delete-object.png)
+Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis.
 
-+ Selectază **Delete** sau apăsă <kbd>Enter</kbd> pentru a-l șterge.
+You can also change what these handles do. For this you can use the other gizmo tools in the menu on the left of your screen.
 
-+ Pentru a adăuga un cub, mergi la meniul din partea stângă, denumit **Toolbox**, dă click pe **Create tab** și apoi selectează **Cube**.
+Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
 
-![Selectază cubul](images/select-cube.png)
+![Scale gizmo](images/scale-gizmo.png)
 
-Un cub va apărea în vizualizarea 3D. Acum vom încerca să creăm un copac din cuburi.
++ Select the scale gizmo from the menu. The handles should then have cube ends.
+
+![Blender cube ends](images/blender-cube-ends.png)
+
++ Squeeze and stretch the cube so that it starts to look like a tree trunk. For example:
+
+![Blender squish](images/blender-squish-1.png)
+
+![Blender squish](images/blender-squish-2.png)
+
+![Blender squish](images/blender-squish-3.png)
+
++ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.
