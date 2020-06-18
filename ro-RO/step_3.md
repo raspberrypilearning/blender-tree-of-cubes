@@ -1,17 +1,17 @@
-## Selectarea obiectelor
+## Adding objects
 
-Când deschizi Blender, vei vedea un ecran de pornire. Ecranul de pornire al Blender 2.76 arată astfel:
+Let's see how we can add objects. We'll remove the cube and add it again.
 
-![Ecran de pornire](images/splash-screen.png)
++ Select the cube with the left mouse button. Check for the orange border.
 
-Pentru acest tutorial nu vei mai avea nevoie de ecranul de pornire.
++ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
+    
+    ![Delete object](images/delete-object.png)
 
-+ Dă click dreapta și ecranul de pornire va dispărea.
++ Select **Delete** or press <kbd>Enter</kbd> to delete it.
 
-Acum va aparea vizualizarea 3D. În vizualizarea 3D ai trei obiecte: lampa, cubul și camera.
++ To add a cube, go to the **Add** dropdown menu and click on the **Mesh** section, and then select **Cube**.
 
-![Vizualizare 3D](images/3d-view.png)
+![Select cube](images/select-cube.png)
 
-Poți selecta obiectele dând click dreapta pe ele. Apare o margine portocalie care înconjoară obiectul selectat. În imaginea de mai sus, obiectul selectat este cubul.
-
-+ Dă click dreapta pe cameră, pe cub sau pe lampă. Dacă un obiect este selectat corect, în jurul acestuia va exista o margine portocalie.
+A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
