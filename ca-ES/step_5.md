@@ -1,29 +1,35 @@
-## Create a tree trunk
+## Add branches and leaves
 
-To create a tree trunk, we need to resize the cube. For this we'll be using the blue, green, and red handles.
+Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
 
-![Blender arrow ends](images/arrow-ends.png)
++ First, notice there is a small circle in the cube.
 
-Using these handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis/
+![3D cursor](images/blender-3d-cursor.png)
 
-You can also change what these handles do. For this you can use the panel at the bottom of the 3D view.
+If you click on the same symbol from the menu on the left and then click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
 
-![Blender handles](images/blender-handles-menu-1.png)
++ Select this Cursor tool and make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
 
-Instead of arrows, we can have cubes at the end by selecting the cube end from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
++ Add a cube by selecting **Mesh** > **Cube** from the **Add** dropdown menu.
 
-![Blender handles](images/blender-handles-menu-2.png)
++ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. For example:
 
-+ Select the cube end from the menu. The handles should then have cube ends.
+![Blender 2 cubes](images/blender-2-cubes.png)
 
-![Blender cube ends](images/blender-cube-ends.png)
++ Once again, click somewhere else in the 3D view and add another cube.
 
-+ Squeeze and stretch the cube so that it starts to look like a tree trunk. Per exemple:
+Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
 
-![Blender squish](images/blender-squish-1.png)
++ From the menu below the 3D view, select the move gizmo so that you can move the cubes.
 
-![Blender squish](images/blender-squish-2.png)
+![Move gizmo](images/gizmos.png)
 
-![Blender squish](images/blender-squish-3.png)
++ Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
 
-+ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.
+![Blender tree](images/blender-tree-1.png)
+
++ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. For example:
+
+![Blender tree](images/blender-tree-2.png)
+
+The image above shows that the cubes are not positioned properly on the tree trunk.
