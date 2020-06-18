@@ -1,17 +1,17 @@
-## वस्तुओं का चयन करना
+## Adding objects
 
-जब आप Blender खोलेंगे, तो आपको एक स्प्लैश स्क्रीन दिखाई देगी। Blender v2.76 की स्प्लैश स्क्रीन इस तरह दिखती है:
+Let's see how we can add objects. We'll remove the cube and add it again.
 
-![स्प्लैश स्क्रीन](images/splash-screen.png)
++ Select the cube with the left mouse button. Check for the orange border.
 
-इस ट्यूटोरियल के लिए हमें स्प्लैश स्क्रीन की आवश्यकता नहीं होगी।
++ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
+    
+    ![Delete object](images/delete-object.png)
 
-+ दाईं ओर क्लिक करें, और स्पलैश स्क्रीन गायब हो जाएगी।
++ Select **Delete** or press <kbd>Enter</kbd> to delete it.
 
-अब आप 3D व्यू देखेंगे। 3D व्यू में आपके पास तीन वस्तुएँ हैं: लैंप, क्यूब, और कैमरा।
++ To add a cube, go to the **Add** dropdown menu and click on the **Mesh** section, and then select **Cube**.
 
-![3D व्यू](images/3d-view.png)
+![Select cube](images/select-cube.png)
 
-आप वस्तुओं पर राइट-क्लिक करके उनका चयन कर सकते हैं। चयनित वस्तु के आस-पास एक नारंगी बॉर्डर दिखाई देता है। उपर्युक्त छवि में, क्यूब का चयन किया गया है।
-
-+ कैमरा, क्यूब, या लैंप पर राइट-क्लिक करें। यदि किसी वस्तु का चयन सही तरीके से किया गया है, तो उसके चारों ओर एक नारंगी बॉर्डर होगा।
+A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
