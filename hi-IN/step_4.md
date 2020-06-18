@@ -1,17 +1,27 @@
-## वस्तुएँ जोड़ना
+## Create a tree trunk
 
-आइए देखते हैं कि हम वस्तुएँ किस तरह जोड़ सकते हैं। हम क्यूब को निकाल देंगे और उसे फिर से जोड़ेंगे।
+To create a tree trunk, we need to resize the cube. For this we'll be using the gizmo tools on the left side of your screen.
 
-+ दाएँ माउस बटन से क्यूब का चयन करें। देखें कि नारंगी बॉर्डर है।
+![Blender gizmos](images/gizmos.png)
 
-+ <kbd>X</kbd> को दबाएँ। आपसे पूछा जाएगा कि क्या आप वस्तु को हटाना चाहते हैं।
-    
-    ![वस्तु को हटाएँ](images/delete-object.png)
+Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis.
 
-+ इसे हटाने के लिए **Delete** का चयन करें या <kbd>Enter</kbd> दबाएँ।
+You can also change what these handles do. For this you can use the other gizmo tools in the menu on the left of your screen.
 
-+ कोई क्यूब जोड़ने के लिए, बाईं ओर **Toolbox** नाम के पैनल पर जाएँ, 0>Create</strong> टैब पर क्लिक करें, और फिर **Cube** का चयन करें।
+Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
 
-![क्यूब का चयन करें](images/select-cube.png)
+![Scale gizmo](images/scale-gizmo.png)
 
-3D व्यू में एक क्यूब दिखाई देगा। अब हम क्यूब्स से पेड़ बनाने की कोशिश करेंगे।
++ Select the scale gizmo from the menu. The handles should then have cube ends.
+
+![Blender cube ends](images/blender-cube-ends.png)
+
++ Squeeze and stretch the cube so that it starts to look like a tree trunk. For example:
+
+![Blender squish](images/blender-squish-1.png)
+
+![Blender squish](images/blender-squish-2.png)
+
+![Blender squish](images/blender-squish-3.png)
+
++ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.
