@@ -2,7 +2,7 @@
 title: Tree of cubes
 hero_image: images/banner.png
 description: Learn how to resize objects in Blender by creating a simple tree of cubes
-theme: yellow
+theme: yellow #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
@@ -10,16 +10,14 @@ copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 interests: weather, art
 technologies: blender
-site_areas: codeclub, python
+site_areas: projects
 hardware: ''
 software: blender
-version: 3
+version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: المقدمة
-  - 
-    title: ما ستحتاج إليه
+    title: Introduction
   - 
     title: Selecting objects
   - 
