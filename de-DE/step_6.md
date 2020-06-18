@@ -1,21 +1,21 @@
-## Render
+## Rendern
 
-To see how your tree looks, you need to see it from the perspective of the camera by rendering the image:
+Um zu sehen, wie dein Baum aussieht, musst du ihn aus der Perspektive der Kamera sehen, indem du das Bild wiedergibt (renderst):
 
-+ Press <kbd>F12</kbd> or, if you're working on a Mac, <kbd>FN + F12</kbd>.
++ Drücke <kbd>F12</kbd> oder, wenn du auf einem Mac arbeitest, <kbd>FN + F12</kbd>.
 
-It could be that you don't see the tree properly, or perhaps it doesn't look very tree-like from the camera view. For example:
+Es könnte sein, dass man den Baum nicht richtig sieht, oder vielleicht sieht er nicht sehr baumähnlich aus in der Kameraansicht. Zum Beispiel:
 
-![Tree render](images/blender-tree-render-1.png)
+![Baum rendern](images/blender-tree-render-1.png)
 
-+ Press <kbd>ESC</kbd> to exit the view.
++ Drücke <kbd>ESC</kbd> um die Ansicht zu verlassen.
 
-+ If the tree didn't look very tree-like, you might want to rearrange the cubes a bit.
++ Wenn der Baum nicht sehr baumähnlich aussah, solltest du die Würfel vielleicht etwas neu anordnen.
 
-+ If your tree didn't fit into the camera's view, move the camera so that the tree shows up properly through the camera.
++ Wenn dein Baum nicht in die Ansicht der Kamera passt, verschiebe die Kamera, sodass der Baum richtig durch die Kamera angezeigt wird.
 
-+ Hit <kbd>F12</kbd> again or, if you're working on a Mac, <kbd>FN + F12</kbd> to see the rendered image.
++ Tippe <kbd>F12</kbd> erneut oder, wenn du auf einem Mac arbeitest, <kbd>FN + F12</kbd> um das gerenderte Bild zu sehen.
 
-![Tree render](images/blender-tree-render-2.png)
+![Baum rendern](images/blender-tree-render-2.png)
 
-You can also play around with the lamp to improve the lighting of your tree.
+Du kannst auch mit der Lampe herumspielen, um die Beleuchtung deines Baumes zu verbessern.
