@@ -1,29 +1,35 @@
-## पेड़ का तना बनाएँ
+## Add branches and leaves
 
-पेड़ का तना बनाने के लिए, हमें क्यूब का आकार बदलना होगा। इसके लिए हम नीले, हरे, और लाल हैंडल का उपयोग करेंगे।
+Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
 
-![Blender तीर के सिरे](images/arrow-ends.png)
++ First, notice there is a small circle in the cube.
 
-इन हैंडलों का उपयोग करके आप क्यूब को x-अक्ष, y-अक्ष, या z-अक्ष पर ले जा सकते हैं । प्रत्येक हैंडल में एक तीर है जो उसकी धुरी की दिशा में इंगित करता है।
+![3D cursor](images/blender-3d-cursor.png)
 
-आप यह भी बदल सकते है कि ये हैंडल क्या करते हैं। इसके लिए आप 3D व्यू के नीचे वाले पैनल का उपयोग कर सकते हैं।
+If you click on the same symbol from the menu on the left and then click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
 
-![Blender के हैंडल](images/blender-handles-menu-1.png)
++ Select this Cursor tool and make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
 
-तीरों के बजाए, हम मेनू से क्यूब के सिरे का चयन करके अंत में क्यूब रख सकते हैं। क्यूब के सिरों से आप क्यूब को अपने मनचाहे तरीके से चाहे कितना भी छोटा या बड़ा कर सकते हैं!
++ Add a cube by selecting **Mesh** > **Cube** from the **Add** dropdown menu.
 
-![Blender के हैंडल](images/blender-handles-menu-2.png)
++ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. For example:
 
-+ मेनू से क्यूब के सिरे का चयन करें। हैंडलों में क्यूब के सिरे होने चाहिए।
+![Blender 2 cubes](images/blender-2-cubes.png)
 
-![Blender क्यूब के सिरे](images/blender-cube-ends.png)
++ Once again, click somewhere else in the 3D view and add another cube.
 
-+ क्यूब को छोटा और बड़ा करें ताकि वह पेड़ के तने की तरह दिखने लगे। उदाहरण के लिए:
+Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
 
-![Blender स्क्विश](images/blender-squish-1.png)
++ From the menu below the 3D view, select the move gizmo so that you can move the cubes.
 
-![Blender स्क्विश](images/blender-squish-2.png)
+![Move gizmo](images/gizmos.png)
 
-![Blender स्क्विश](images/blender-squish-3.png)
++ Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
 
-+ यह देखने के लिए दृश्य को चारों ओर घुमाएँ कि क्या पेड़ का तना ठीक दिखता है या नहीं, और यदि नहीं, तो इसे थोड़ा और छोटा और बड़ा करें।
+![Blender tree](images/blender-tree-1.png)
+
++ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. For example:
+
+![Blender tree](images/blender-tree-2.png)
+
+The image above shows that the cubes are not positioned properly on the tree trunk.
