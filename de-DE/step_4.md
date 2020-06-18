@@ -1,27 +1,27 @@
-## Create a tree trunk
+## Erstelle einen Baumstamm
 
-To create a tree trunk, we need to resize the cube. For this we'll be using the gizmo tools on the left side of your screen.
+Um einen Baumstamm zu erstellen, müssen wir die Größe des Würfels ändern. For this we'll be using the gizmo tools on the left side of your screen.
 
 ![Blender gizmos](images/gizmos.png)
 
-Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis.
+Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Jeder Ziehpunkt hat einen Pfeil, der in Richtung seiner Achse zeigt.
 
-You can also change what these handles do. For this you can use the other gizmo tools in the menu on the left of your screen.
+Du kannst auch ändern, was diese Ziepunkte machen. For this you can use the other gizmo tools in the menu on the left of your screen.
 
-Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
+Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. Die Würfel-Enden erlauben es dir, den Würfel in jede beliebige Form zu pressen und zu strecken!
 
 ![Scale gizmo](images/scale-gizmo.png)
 
-+ Select the scale gizmo from the menu. The handles should then have cube ends.
++ Select the scale gizmo from the menu. Die Ziehpunkte sollten nun Würfelenden haben.
 
-![Blender cube ends](images/blender-cube-ends.png)
+![Würfelenden in Blender](images/blender-cube-ends.png)
 
-+ Squeeze and stretch the cube so that it starts to look like a tree trunk. For example:
++ Drücke und strecke den Würfel so, dass er wie ein Baumstamm aussieht. Zum Beispiel:
 
-![Blender squish](images/blender-squish-1.png)
+![Reduzieren in Blender](images/blender-squish-1.png)
 
-![Blender squish](images/blender-squish-2.png)
+![Reduzieren in Blender](images/blender-squish-2.png)
 
-![Blender squish](images/blender-squish-3.png)
+![Reduzieren in Blender](images/blender-squish-3.png)
 
-+ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.
++ Drehe die Ansicht, um festzustellen, ob der Baumstamm in Ordnung ist. Wenn nicht, drücke und strecke ihn etwas weiter.
