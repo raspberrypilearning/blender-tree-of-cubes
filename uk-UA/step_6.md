@@ -1,35 +1,21 @@
-## Add branches and leaves
+## Render
 
-Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
+To see how your tree looks, you need to see it from the perspective of the camera by rendering the image:
 
-+ First, notice there is a small circle in the cube.
++ Press <kbd>F12</kbd> or, if you're working on a Mac, <kbd>FN + F12</kbd>.
 
-![3D cursor](images/blender-3d-cursor.png)
+It could be that you don't see the tree properly, or perhaps it doesn't look very tree-like from the camera view. For example:
 
-If you left-click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
+![Tree render](images/blender-tree-render-1.png)
 
-+ Make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
++ Press <kbd>ESC</kbd> to exit the view.
 
-+ Add a cube by selecting **Create** > **Cube** from the **Toolbox** on the left-hand panel.
++ If the tree didn't look very tree-like, you might want to rearrange the cubes a bit.
 
-+ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. Наприклад:
++ If your tree didn't fit into the camera's view, move the camera so that the tree shows up properly through the camera.
 
-![Blender 2 cubes](images/blender-2-cubes.png)
++ Hit <kbd>F12</kbd> again or, if you're working on a Mac, <kbd>FN + F12</kbd> to see the rendered image.
 
-+ Once again, click somewhere else in the 3D view and add another cube.
+![Tree render](images/blender-tree-render-2.png)
 
-Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
-
-+ From the menu below the 3D view, select the arrow ends so that you can move the cubes.
-
-![Handles](images/blender-handles-menu-1.png)
-
-+ Move the cubes on top of the tree trunk in a tree-like arrangement. Наприклад:
-
-![Blender tree](images/blender-tree-1.png)
-
-+ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. Наприклад:
-
-![Blender tree](images/blender-tree-2.png)
-
-The image above shows that the cubes are not positioned properly on the tree trunk.
+You can also play around with the lamp to improve the lighting of your tree.
