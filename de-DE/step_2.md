@@ -1,17 +1,17 @@
-## Selecting objects
+## Wähle einen Gegenstand
 
-When you open Blender, you will see a splash screen. The splash screen of Blender 2.81 looks like this:
+Ein Startbildschirm erscheint sobald du Blender öffnest. Der Startbildschirm von Blender v2.81 sieht folgendermaßen aus:
 
-![Splash screen](images/splash-screen.png)
+![Startbildschirm](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+Für dieses Tutorial brauchen wir den Startbildschirm nicht.
 
-+ Click to the right, and the Splash screen will disappear.
++ Klicke rechts neben dem Startbildschirm, um ihn auszublenden.
 
-Now you'll see the 3D view. In the 3D view you have three objects: the lamp, the cube, and the camera.
+Jetzt wirst du die 3D-Ansicht sehen. In der 3D-Ansicht hast du drei Gegenstände: die Lampe, den Würfel und die Kamera.
 
-![3D view](images/3d-view.png)
+![3D Ansicht](images/3d-view.png)
 
-You can select the objects by left-clicking on them. An orange border appears surrounding the selected object. In the image above, the cube is selected.
+Du kannst die Gegenstände auswählen, indem du mit der linken Maustaste darauf klickst. Ein orangefarbener Rand erscheint um das ausgewählte Objekt herum. Im obigen Bild ist der Würfel ausgewählt.
 
-+ Left-click on the camera, the cube, or the lamp. If an object is correctly selected, there will be an orange border around it.
++ Klicke mit der linken Maustaste auf die Kamera, den Würfel oder die Lampe. Wenn ein Objekt richtig ausgewählt ist, wird es orange umrandet.
