@@ -1,35 +1,35 @@
-## Add branches and leaves
+## Äste und Blätter hinzufügen
 
-Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
+Lass uns einige Äste und Zweige hinzufügen. Dazu müssen wir einige weitere Würfel als unsere Blattzweige hinzufügen.
 
-+ First, notice there is a small circle in the cube.
++ Zunächst wirst du feststellen, dass sich im Würfel ein kleiner Kreis befindet.
 
-![3D cursor](images/blender-3d-cursor.png)
+![3D-Mauszeiger](images/blender-3d-cursor.png)
 
-If you click on the same symbol from the menu on the left and then click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
+If you click on the same symbol from the menu on the left and then click somewhere in the 3D view, the circle will be placed at that location. Dies ist der 3D-Mauszeiger. Wenn du einen Gegenstand hinzufügst, wird der Gegenstand an der Position des 3D-Mauszeigers platziert.
 
-+ Select this Cursor tool and make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
++ Select this Cursor tool and make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Beachte, dass sich der 3D-Mauszeiger an der Stelle befindet, auf die du geklickt hast.
 
 + Add a cube by selecting **Mesh** > **Cube** from the **Add** dropdown menu.
 
-+ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. For example:
++ Klicke in der 3D-Ansicht auf eine andere Stelle (aber immer noch in der Nähe des Baumstamms) und füge einen weiteren Würfel hinzu. Zum Beispiel:
 
-![Blender 2 cubes](images/blender-2-cubes.png)
+![2 Würfel in Blender](images/blender-2-cubes.png)
 
-+ Once again, click somewhere else in the 3D view and add another cube.
++ Erneut klicke in der 3D-Ansicht auf einen anderen Ort und füge einen weiteren Würfel hinzu.
 
-Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
+Jetzt befinden sich drei Würfel in der 3D-Ansicht. Du kannst die blauen, grünen und roten Ziehpunkte erneut verwenden, um die Würfel an die Spitze des Baumstamms zu verschieben, damit er wie ein Baum aussieht.
 
 + From the menu below the 3D view, select the move gizmo so that you can move the cubes.
 
-![Move gizmo](images/gizmos.png)
+![Gizmo bewegen](images/gizmos.png)
 
-+ Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
++ Bewege die Würfel in einer baumartigen Anordnung auf den Baumstamm. Zum Beispiel:
 
-![Blender tree](images/blender-tree-1.png)
+![Baum in Blender](images/blender-tree-1.png)
 
-+ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. For example:
++ Drehe die 3D-Ansicht mit der mittleren Maustaste und überprüfe, ob der Baum aus allen Winkeln in Ordnung ist. Passe ihn gegebenenfalls an. Zum Beispiel:
 
-![Blender tree](images/blender-tree-2.png)
+![Baum in Blender](images/blender-tree-2.png)
 
-The image above shows that the cubes are not positioned properly on the tree trunk.
+Das Bild oben zeigt, dass die Würfel nicht richtig auf dem Baumstamm positioniert sind.
