@@ -12,17 +12,17 @@ So wird dein fertiges Stück aussehen:
 
 ## \--- collapse \---
 
-## title: Was du lernen wirst
+## title: "Was du lernen wirst"
 
 Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Entwurf von grundlegenden 2D- and 3D-Gütern](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [Entwurf von grundlegenden 2D- and 3D-Komponenten](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Was du brauchen wirst
+## title: "Was du brauchen wirst"
 
 ### Hardware
 
@@ -30,7 +30,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digit
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 oder höher)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 oder neuer)
 
 \--- /collapse \---
 
