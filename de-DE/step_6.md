@@ -14,7 +14,7 @@ Es könnte sein, dass man den Baum nicht richtig sieht, oder vielleicht sieht er
 
 + Wenn dein Baum nicht in die Ansicht der Kamera passt, verschiebe die Kamera, so dass der Baum richtig durch die Kamera angezeigt wird.
 
-+ Tippe <kbd>F12</kbd> erneut oder, wenn du auf einem Mac arbeitest, <kbd>FN + F12</kbd> um das gerenderte Bild zu sehen.
++ Tippe <kbd>F12</kbd> erneut oder, wenn du auf einem Mac arbeitest, <kbd>FN + F12</kbd>, um das gerenderte Bild zu sehen.
 
 ![Baum rendern](images/blender-tree-render-2.png)
 
