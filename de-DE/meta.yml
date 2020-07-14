@@ -1,0 +1,25 @@
+---
+title: Baum aus Würfel
+hero_image: images/banner.png
+description: Lerne, wie du die Größe von Gegenständen in Blender ändern kannst, indem du einen einfachen Baum aus Würfeln erstellst
+theme: yellow #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: weather, art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2017-01-01
+steps:
+  - title: Einleitung
+  - title: Wähle einen Gegenstand
+  - title: Gegenstände hinzufügen
+  - title: Erstelle einen Baumstamm
+  - title: Äste und Blätter hinzufügen
+  - title: Rendern
+  - title: "Herausforderung: Kiefernbaum"
