@@ -10,7 +10,7 @@ Schau Dir an, wie wir Gegenstände hinzufügen können. Wir werden den Würfel e
 
 + Wähle **Delete** (Löschen) oder drücke <kbd>Enter</kbd>, um es zu löschen.
 
-+ To add a cube, go to the **Add** dropdown menu and click on the **Mesh** section, and then select **Cube**.
++ Um einen Würfel hinzuzufügen, gehe zum Dropdown-Menü **Hinzufügen** und klicke auf den Abschnitt **Mesh** und wähle dann **Cube**.
 
 ![Würfel auswählen](images/select-cube.png)
 
