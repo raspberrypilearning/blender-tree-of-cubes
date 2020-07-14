@@ -1,18 +1,18 @@
 ## Erstelle einen Baumstamm
 
-Um einen Baumstamm zu erstellen, müssen wir die Größe des Würfels ändern. For this we'll be using the gizmo tools on the left side of your screen.
+Um einen Baumstamm zu erstellen, müssen wir die Größe des Würfels ändern. Dazu verwenden wir die Gizmo-Tools auf der linken Seite deines Bildschirms.
 
 ![Blender gizmos](images/gizmos.png)
 
-Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Jeder Ziehpunkt hat einen Pfeil, der in Richtung seiner Achse zeigt.
+Mit Hilfe der Griffe des Bewegungs-Gizmo kannst du den Würfel entlang der x-Achse, der y-Achse oder der z-Achse bewegen. Jeder Ziehpunkt hat einen Pfeil, der in Richtung seiner Achse zeigt.
 
-Du kannst auch ändern, was diese Ziepunkte machen. For this you can use the other gizmo tools in the menu on the left of your screen.
+Du kannst auch ändern, was diese Ziepunkte machen. Dazu kannst du die anderen Gizmo-Werkzeuge im Menü auf der linken Seite deines Bildschirms verwenden.
 
-Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. Die Würfel-Enden erlauben es dir, den Würfel in jede beliebige Form zu pressen und zu strecken!
+Anstelle von Pfeilen können wir am Ende Würfel haben, indem wir das Würfelende aus dem Menü auswählen. Die Würfelenden erlauben es dir, den Würfel in jede beliebige Form zu pressen und zu strecken!
 
-![Scale gizmo](images/scale-gizmo.png)
+![Skalieren-Gizmo](images/scale-gizmo.png)
 
-+ Select the scale gizmo from the menu. Die Ziehpunkte sollten nun Würfelenden haben.
++ Wähle das Skalieren-Gizmo aus dem Menü. Die Ziehpunkte sollten nun Würfelenden haben.
 
 ![Würfelenden in Blender](images/blender-cube-ends.png)
 
