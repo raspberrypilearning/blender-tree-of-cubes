@@ -1,6 +1,6 @@
 ## Erstelle einen Baumstamm
 
-Um einen Baumstamm zu erstellen, müssen wir die Größe des Würfels ändern. Dazu verwenden wir die Gizmo-Tools auf der linken Seite deines Bildschirms.
+Um einen Baumstamm zu erstellen, müssen wir die Größe des Würfels ändern. Dazu verwenden wir die Gizmo-Werkzeuge auf der linken Seite deines Bildschirms.
 
 ![Blender gizmos](images/gizmos.png)
 
