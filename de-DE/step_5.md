@@ -10,9 +10,9 @@ Wenn du auf das gleiche Symbol aus dem Menü auf der linken Seite klickst und da
 
 + Stelle sicher, dass sich deine Maus irgendwo in der 3D-Ansicht befindet und klicke mit der linken Maustaste — nah am Baumstamm könnte nützlich sein. Beachte, dass sich der 3D-Mauszeiger an der Stelle befindet, auf die du geklickt hast.
 
-+ Füge einen Würfel hinzu, indem du **Mesh** > **Cube** (Würfel) aus dem **Hinzufügen** - Dropdown-Menü auswählst.
++ Füge einen Würfel hinzu, indem du **Mesh** > **Cube** (Würfel) aus dem **Hinzufügen**-Dropdown-Menü auswählst.
 
-+ Klicke in der 3D-Ansicht auf eine andere Stelle (aber immer noch in der Nähe des Baumstamms) und füge einen weiteren Würfel hinzu. Zum Beispiel:
++ Klicke in der 3D-Ansicht auf eine andere Stelle (aber immer noch in der Nähe des Baumstammes) und füge einen weiteren Würfel hinzu. Zum Beispiel:
 
 ![2 Würfel in Blender](images/blender-2-cubes.png)
 
