@@ -1,27 +1,27 @@
-## Create a tree trunk
+## पेड़ का तना बनाएँ
 
-To create a tree trunk, we need to resize the cube. For this we'll be using the gizmo tools on the left side of your screen.
+पेड़ का तना बनाने के लिए, हमें क्यूब का आकार बदलना होगा। इसके लिए हम आपके स्क्रीन के बायीं ओर के उपयोगी उपकरणों का उपयोग करेंगे।
 
-![Blender gizmos](images/gizmos.png)
+![ब्लेंडर गिज़मोस](images/gizmos.png)
 
-Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis.
+इन हैंडलों का उपयोग करके आप क्यूब को x-अक्ष, y-अक्ष, या z-अक्ष पर ले जा सकते हैं । प्रत्येक हैंडल में एक तीर है जो उसकी धुरी की दिशा में इंगित करता है।
 
-You can also change what these handles do. For this you can use the other gizmo tools in the menu on the left of your screen.
+आप यह भी बदल सकते है कि ये हैंडल क्या करते हैं। इसके लिए आप अपनी स्क्रीन के बाईं ओर स्थित मेनू में अन्य सुविधाजनक टूल का उपयोग कर सकते हैं।
 
-Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
+तीरों के बजाए, हम मेनू से क्यूब के सिरे का चयन करके अंत में क्यूब रख सकते हैं। क्यूब के सिरों से आप क्यूब को अपने मनचाहे तरीके से चाहे कितना भी छोटा या बड़ा कर सकते हैं!
 
-![Scale gizmo](images/scale-gizmo.png)
+![पैमाना](images/scale-gizmo.png)
 
-+ Select the scale gizmo from the menu. The handles should then have cube ends.
++ मेनू से स्केल ऐक्टिव चुनें। हैंडलों में क्यूब के सिरे होने चाहिए।
 
-![Blender cube ends](images/blender-cube-ends.png)
+![Blender क्यूब के सिरे](images/blender-cube-ends.png)
 
-+ Squeeze and stretch the cube so that it starts to look like a tree trunk. For example:
++ क्यूब को निचोड़ें और फैलाएं ताकि वह पेड़ के तने की तरह दिखने लगे। उदाहरण के लिए:
 
-![Blender squish](images/blender-squish-1.png)
+![Blender स्क्विश](images/blender-squish-1.png)
 
-![Blender squish](images/blender-squish-2.png)
+![Blender स्क्विश](images/blender-squish-2.png)
 
-![Blender squish](images/blender-squish-3.png)
+![Blender स्क्विश](images/blender-squish-3.png)
 
-+ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.
++ यह देखने के लिए दृश्य को चारों ओर घुमाएँ कि क्या पेड़ का तना ठीक दिखता है या नहीं, और यदि नहीं, तो इसे थोड़ा और छोटा और बड़ा करें।
