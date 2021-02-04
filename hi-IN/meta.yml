@@ -7,10 +7,10 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: weather, art
-technologies: blender
-site_areas: projects
+curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: मौसम, कला
+technologies: blender (ब्लेंडर)
+site_areas: प्रोजेक्ट
 hardware: ''
 software: blender
 version: 4
@@ -19,14 +19,14 @@ steps:
   - 
     title: परिचय
   - 
-    title: Selecting objects
+    title: वस्तुओं का चयन करना
   - 
-    title: Adding objects
+    title: वस्तुएँ जोड़ना
   - 
-    title: Create a tree trunk
+    title: पेड़ का तना बनाएँ
   - 
-    title: Add branches and leaves
+    title: शाखाएँ और पत्तियाँ जोड़ें
   - 
-    title: Render
+    title: प्रस्तुत करें
   - 
-    title: "Challenge: pine tree"
+    title: "चुनौती: देवदार का पेड़"
