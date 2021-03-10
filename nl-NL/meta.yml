@@ -1,7 +1,7 @@
 ---
-title: Tree of cubes
+title: Kubusboom
 hero_image: images/banner.png
-description: Learn how to resize objects in Blender by creating a simple tree of cubes
+description: Leer om objecten van grootte te veranderen in Blender door een simpele boom van kubussen te maken
 theme: yellow #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -17,16 +17,16 @@ version: 4
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Selecting objects
+    title: Objecten selecteren
   - 
-    title: Adding objects
+    title: Objecten toevoegen
   - 
-    title: Create a tree trunk
+    title: Maak een boomstam
   - 
-    title: Add branches and leaves
+    title: Voeg takken en bladeren toe
   - 
-    title: Render
+    title: Renderen
   - 
-    title: "Challenge: pine tree"
+    title: "Uitdaging: dennenboom"
