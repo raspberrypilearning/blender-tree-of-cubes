@@ -1,17 +1,17 @@
-## Selecting objects
+## Objecten selecteren
 
-When you open Blender, you will see a splash screen. The splash screen of Blender 2.81 looks like this:
+Als je Blender opent, zie je een startscherm. Het startscherm ziet er in Blender 2.92 zo uit:
 
-![Splash screen](images/splash-screen.png)
+![Startscherm](images/splash-screen.png)
 
-For this tutorial we won't be needing the splash screen.
+Voor deze tutorial hebben we geen startscherm nodig.
 
-+ Click to the right, and the Splash screen will disappear.
++ Klik rechts van het scherm en het startscherm verdwijnt.
 
-Now you'll see the 3D view. In the 3D view you have three objects: the lamp, the cube, and the camera.
+Nu zie je de 3D-weergave. In de 3D-weergave zie je drie objecten: de lamp, de kubus en de camera.
 
-![3D view](images/3d-view.png)
+![3D-weergave](images/3d-view.png)
 
-You can select the objects by left-clicking on them. An orange border appears surrounding the selected object. In the image above, the cube is selected.
+Je kunt de objecten selecteren door er met je linkermuisknop op te klikken. Er verschijnt een oranje rand om het geselecteerde object. In de afbeelding hierboven is de kubus geselecteerd.
 
-+ Left-click on the camera, the cube, or the lamp. If an object is correctly selected, there will be an orange border around it.
++ Klik met links op de camera, de kubus of de lamp. Als een object correct geselecteerd is, zal er een oranje rand omheen zitten.
