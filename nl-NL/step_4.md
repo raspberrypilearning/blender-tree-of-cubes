@@ -1,27 +1,27 @@
-## Create a tree trunk
+## Maak een boomstam
 
-To create a tree trunk, we need to resize the cube. For this we'll be using the gizmo tools on the left side of your screen.
+Om een boomstam te maken, moeten we de grootte van de kubus wijzigen. Hiervoor gebruiken we de gizmo gereedschappen aan de linkerkant van je scherm.
 
 ![Blender gizmos](images/gizmos.png)
 
-Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis.
+Met de move (verplaats) handvatten kun je de kubus langs de x-as, y-as of z-as bewegen. Elk handvat heeft een pijl die wijst in de richting van zijn as.
 
-You can also change what these handles do. For this you can use the other gizmo tools in the menu on the left of your screen.
+Je kunt ook veranderen wat de handvatten doen. Hiervoor kun je de andere gizmo gereedschappen in het menu aan de linkerkant van je scherm gebruiken.
 
-Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
+In plaats van pijlen, kunnen we blokjes aan het eind hebben door de schaal gizmo van het menu te gebruiken. Door de blokjeseinden kun je de kubus in elke vorm krimpen en uitrekken die je wilt!
 
-![Scale gizmo](images/scale-gizmo.png)
+![Schaal gizmo](images/scale-gizmo.png)
 
-+ Select the scale gizmo from the menu. The handles should then have cube ends.
++ Selecteer de schaal gizmo van het menu. De handvatten zouden nu blokjeseinden moeten hebben.
 
-![Blender cube ends](images/blender-cube-ends.png)
+![Blender blokjeseinden](images/blender-cube-ends.png)
 
-+ Squeeze and stretch the cube so that it starts to look like a tree trunk. For example:
++ Krim en rek de kubus uit zodat het er als een boomstam uit komt te zien. Bijvoorbeeld:
 
-![Blender squish](images/blender-squish-1.png)
+![Blender krimpen](images/blender-squish-1.png)
 
-![Blender squish](images/blender-squish-2.png)
+![Blender krimpen](images/blender-squish-2.png)
 
-![Blender squish](images/blender-squish-3.png)
+![Blender krimpen](images/blender-squish-3.png)
 
-+ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.
++ Roteer het beeld om te zien of de boomstam er goed uit ziet, zo niet, krimp en rek nog wat meer.
