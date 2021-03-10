@@ -1,7 +1,7 @@
-## Challenge: pine tree
+## Uitdaging: dennenboom
 
-+ Create a pine tree like this one:
++ Maak een dennenboom zoals deze:
 
-![Pine tree](images/blender-pine-tree.png)
+![Dennenboom](images/blender-pine-tree.png)
 
-+ Add some apples to your tree.
++ Voeg wat appels aan je boom toe.
