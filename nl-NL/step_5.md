@@ -1,35 +1,35 @@
-## Add branches and leaves
+## Voeg takken en bladeren toe
 
-Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
+Laten we wat takken en bladeren toevoegen. Hiervoor moeten we meer kubussen toevoegen voor onze takken vol bladeren.
 
-+ First, notice there is a small circle in the cube.
++ Als eerste, merk op dat er een kleine cirkel in de kubus te zien is.
 
-![3D cursor](images/blender-3d-cursor.png)
+![3D-cursor](images/blender-3d-cursor.png)
 
-If you click on the same symbol from the menu on the left and then click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
+Als je op hetzelfde symbool klikt in het linkermenu, en dan ergens in de 3D-weergave klikt, wordt de cirkel op die plek geplaatst. Dit is de 3D-cursor. Als je een object toevoegt, zal het object geplaatst worden op de plek van de 3D-cursor.
 
-+ Select this Cursor tool and make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
++ Selecteer dit cursorgereedschap en zorg dat je muis ergens in de 3D-weergave zit en klik met links — vlakbij de boomstam is handig. Merk op dat de 3D-cursor op de positie staat waar je klikte.
 
-+ Add a cube by selecting **Mesh** > **Cube** from the **Add** dropdown menu.
++ Voeg een kubus toe door **Mesh** > **Kubus** te selecteren in het **Toevoegen** menu.
 
-+ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. For example:
++ Klik ergens in de 3D-weergave (wel dichtbij de boomstam) en voeg nog een kubus toe. Bijvoorbeeld:
 
-![Blender 2 cubes](images/blender-2-cubes.png)
+![Blender 2 kubussen](images/blender-2-cubes.png)
 
-+ Once again, click somewhere else in the 3D view and add another cube.
++ Klik weer ergens in de 3D-weergave en voeg nog een kubus toe.
 
-Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
+Nu zie je drie kubussen in de 3D-weergave. Je kunt de blauwe, groene en rode handvatten gebruiken om de kubussen bovenop de boomstam te plaatsen om het er als een boom uit te laten zien.
 
-+ From the menu below the 3D view, select the move gizmo so that you can move the cubes.
++ Selecteer de move gizmo vanuit het menu onder de 3D-weergave zodat je de kubussen kunt verplaatsen.
 
 ![Move gizmo](images/gizmos.png)
 
-+ Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
++ Zet de kubussen bovenop de boomstam in een boomachtige opstelling. Bijvoorbeeld:
 
-![Blender tree](images/blender-tree-1.png)
+![Blender boom](images/blender-tree-1.png)
 
-+ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. For example:
++ Roteer de 3D-weergave met behulp van de middelste muisknop en controleer dat de boom er vanaf elke kant goed uitziet, pas waar nodig aan. Bijvoorbeeld:
 
-![Blender tree](images/blender-tree-2.png)
+![Blender boom](images/blender-tree-2.png)
 
-The image above shows that the cubes are not positioned properly on the tree trunk.
+De afbeelding hierboven laat zien dat de kubussen niet goed op de boomstam zijn geplaatst.
