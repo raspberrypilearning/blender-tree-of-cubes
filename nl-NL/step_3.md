@@ -1,17 +1,17 @@
-## Adding objects
+## Objecten toevoegen
 
-Let's see how we can add objects. We'll remove the cube and add it again.
+Laten we kijken hoe we objecten kunnen toevoegen. We verwijderen de kubus en zullen deze weer toevoegen.
 
-+ Select the cube with the left mouse button. Check for the orange border.
++ Selecteer de kubus met de linkermuisknop. Zorg ervoor dat je de oranje rand is.
 
-+ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
++ Druk op <kbd>X</kbd>. Er wordt je gevraagd of je het object wilt verwijderen.
     
-    ![Delete object](images/delete-object.png)
+    ![Verwijder object](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd> to delete it.
++ Klik op **Verwijder** of <kbd>Enter</kbd> om het te verwijderen.
 
-+ To add a cube, go to the **Add** dropdown menu and click on the **Mesh** section, and then select **Cube**.
++ Om een kubus toe te voegen, ga je naar het **Toevoegen** menu, klik op de **Mesh** sectie en selecteer **Kubus**.
 
-![Select cube](images/select-cube.png)
+![Selecteer kubus](images/select-cube.png)
 
-A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
+Er verschijnt een kubus in de 3D-weergave. Nu gaan we proberen een boom van kubussen te maken.
