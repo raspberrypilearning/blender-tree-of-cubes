@@ -17,11 +17,13 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Selecting objects
 - title: Adding objects
+  completion:
+  - engaged
 - title: Create a tree trunk
 - title: Add branches and leaves
 - title: Render
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: pine tree'

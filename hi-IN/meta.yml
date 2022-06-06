@@ -18,11 +18,13 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: वस्तुओं का चयन करना
 - title: वस्तुएँ जोड़ना
+  completion:
+  - engaged
 - title: पेड़ का तना बनाएँ
 - title: शाखाएँ और पत्तियाँ जोड़ें
 - title: प्रस्तुत करें
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: देवदार का पेड़'

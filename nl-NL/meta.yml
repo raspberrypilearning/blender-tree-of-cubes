@@ -18,11 +18,13 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Objecten selecteren
 - title: Objecten toevoegen
+  completion:
+  - engaged
 - title: Maak een boomstam
 - title: Voeg takken en bladeren toe
 - title: Renderen
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: dennenboom'

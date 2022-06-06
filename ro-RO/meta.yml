@@ -18,12 +18,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducere
-  completion: engaged
 - title: Ce vei avea nevoie
 - title: Selectarea obiectelor
+  completion:
+  - engaged
 - title: Adăugarea obiectelor
 - title: Creează un trunchi de copac
 - title: Adaugă ramuri și frunze
-  completion: internal
+  completion:
+  - internal
 - title: Randare
 - title: 'Provocare: creează un brad'

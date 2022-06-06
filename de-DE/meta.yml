@@ -18,11 +18,13 @@ version: 4
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Wähle einen Gegenstand
 - title: Gegenstände hinzufügen
+  completion:
+  - engaged
 - title: Erstelle einen Baumstamm
 - title: Äste und Blätter hinzufügen
 - title: Rendern
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Kiefernbaum'
