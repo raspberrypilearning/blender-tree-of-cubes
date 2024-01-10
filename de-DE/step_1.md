@@ -40,7 +40,7 @@ Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Ve
 
 Verwende den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-DE/resources".
 
-Wenn du möchtest, kannst du die gesamte Ressource als Video-Tutorial ansehen: <iframe width="560" height="315" src="https://www.youtube.com/embed/BvMwAQ2cXWg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Wenn du möchtest, kannst du die gesamte Ressource als Video-Tutorial ansehen: <iframe width="560" height="315" src="https://www.youtube.com/embed/BvMwAQ2cXWg" frameborder="0" allowfullscreen></iframe> 
 
 ### Lizenz
 
