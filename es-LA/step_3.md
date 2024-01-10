@@ -1,17 +1,17 @@
-## Adding objects
+## Añadir objetos
 
-Let's see how we can add objects. We'll remove the cube and add it again.
+Veamos cómo podemos añadir objetos. Eliminaremos el cubo y lo volveremos a añadir.
 
-+ Select the cube with the left mouse button. Check for the orange border.
++ Selecciona el cubo con el botón izquierdo del mouse. Comprueba que aparece el borde anaranjado.
 
-+ Press <kbd>X</kbd>. You'll be asked whether you want to delete the object.
++ Presiona <kbd>X</kbd>. Te preguntará si deseas borrar el objeto.
     
-    ![Delete object](images/delete-object.png)
+    ![Borrar un objeto](images/delete-object.png)
 
-+ Select **Delete** or press <kbd>Enter</kbd> to delete it.
++ Selecciona **Borrar** o presiona <kbd>Enter</kbd> para borrarlo.
 
-+ To add a cube, go to the **Add** dropdown menu and click on the **Mesh** section, and then select **Cube**.
++ Para añadir un cubo, ve al menú desplegable **Agregar** y haz clic en la sección **Malla**, y luego selecciona **Cubo**.
 
-![Select cube](images/select-cube.png)
+![Seleccionar cubo](images/select-cube.png)
 
-A cube will appear in the 3D view. Now we will try to create a tree out of cubes.
+Aparecerá un cubo en la vista 3D. Ahora intentaremos crear un árbol utilizando cubos.
