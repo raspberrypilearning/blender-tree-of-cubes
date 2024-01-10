@@ -40,7 +40,7 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 
 Gebruik de link onderaan de pagina om toegang tot de GitHub repository voor dit project te krijgen, hier vind je alle bronnen (waaronder een voltooid project) in de 'en/resources' map.
 
-Als je wilt, kun je het hele project in een video bekijken: <iframe width="560" height="315" src="https://www.youtube.com/embed/BvMwAQ2cXWg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Als je wilt, kun je het hele project in een video bekijken: <iframe width="560" height="315" src="https://www.youtube.com/embed/BvMwAQ2cXWg" frameborder="0" allowfullscreen></iframe> 
 
 ### Licentie
 
