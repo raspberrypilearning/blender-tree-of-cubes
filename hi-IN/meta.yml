@@ -2,7 +2,7 @@
 title: क्यूब्स का पेड़
 hero_image: images/banner.png
 description: क्यूब्स का एक साधारण पेड़ बनाकर यह सीखें कि Blender में वस्तुओं के आकार को कैसे बदला जाता है।
-theme: yellow #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: yellow
 duration: 2
 listed: true
 ingredient: false
@@ -22,11 +22,15 @@ steps:
     title: वस्तुओं का चयन करना
   - 
     title: वस्तुएँ जोड़ना
+    completion:
+      - engaged
   - 
     title: पेड़ का तना बनाएँ
   - 
     title: शाखाएँ और पत्तियाँ जोड़ें
   - 
     title: प्रस्तुत करें
+    completion:
+      - internal
   - 
-    title: "चुनौती: देवदार का पेड़"
+    title: 'चुनौती: देवदार का पेड़'
