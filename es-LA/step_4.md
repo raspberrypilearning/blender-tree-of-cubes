@@ -1,27 +1,27 @@
-## Create a tree trunk
+## Crear el tronco de un árbol
 
-To create a tree trunk, we need to resize the cube. For this we'll be using the gizmo tools on the left side of your screen.
+Para crear el tronco de un árbol, necesitamos modificar el tamaño del cubo. Para ello usaremos la barra de herramientas en el lado izquierdo de tu pantalla.
 
-![Blender gizmos](images/gizmos.png)
+![Herramientas de Blender](images/gizmos.png)
 
-Using the move gizmo's handles you can move the cube along the x-axis, the y-axis, or the z-axis. Each handle has an arrow pointing into the direction of its axis.
+Usando las asas de la herramienta de movimiento se puede mover el cubo a lo largo del eje x, el eje y o el eje z. Cada asa tiene una flecha que apunta en la dirección de su eje.
 
-You can also change what these handles do. For this you can use the other gizmo tools in the menu on the left of your screen.
+También puedes cambiar la función de estos controles. Para esto, puedes usar las otras herramientas en el menú a la izquierda de tu pantalla.
 
-Instead of arrows, we can have cubes at the end by selecting the scale gizmo from the menu. The cube ends allow you to squeeze and stretch the cube into whatever shape you want it to be!
+En lugar de flechas, podemos tener cubos en los extremos seleccionando la herramienta escalar en el menú. ¡Los extremos del cubo te permiten apretar y estirar el cubo de la forma que quieras!
 
-![Scale gizmo](images/scale-gizmo.png)
+![Herramienta escalar](images/scale-gizmo.png)
 
-+ Select the scale gizmo from the menu. The handles should then have cube ends.
++ Selecciona la herramienta escalar en el menú. Las asas deben tener extremos en forma de cubo.
 
-![Blender cube ends](images/blender-cube-ends.png)
+![Extremos con forma de cubo en Blender](images/blender-cube-ends.png)
 
-+ Squeeze and stretch the cube so that it starts to look like a tree trunk. For example:
++ Aprieta y estira el cubo para que empiece a parecerse al tronco de un árbol. Por ejemplo:
 
-![Blender squish](images/blender-squish-1.png)
+![Apretar en Blender](images/blender-squish-1.png)
 
-![Blender squish](images/blender-squish-2.png)
+![Apretar en Blender](images/blender-squish-2.png)
 
-![Blender squish](images/blender-squish-3.png)
+![Apretar en Blender](images/blender-squish-3.png)
 
-+ Rotate the view around to see whether the tree trunk looks okay, and if not, squeeze and stretch it a bit more.
++ Rota la vista para que puedas ver si el tronco del árbol se ve bien, si no, aprieta y estira un poco más.
