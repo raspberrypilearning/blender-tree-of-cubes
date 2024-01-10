@@ -1,7 +1,7 @@
-## Challenge: pine tree
+## Desafío: pino
 
-+ Create a pine tree like this one:
++ Crea un pino como este:
 
-![Pine tree](images/blender-pine-tree.png)
+![Pino](images/blender-pine-tree.png)
 
-+ Add some apples to your tree.
++ Añade manzanas a tu árbol.
