@@ -1,35 +1,35 @@
-## Add branches and leaves
+## Añadir ramas y hojas
 
-Let's add some branches and leaves. For this, we will need to add some more cubes as our leafy branches.
+Agregaremos algunas ramas y hojas. Para esto, necesitaremos añadir más cubos para nuestras ramas frondosas.
 
-+ First, notice there is a small circle in the cube.
++ Primero, observa que hay un pequeño círculo en el cubo.
 
-![3D cursor](images/blender-3d-cursor.png)
+![Cursor 3D](images/blender-3d-cursor.png)
 
-If you click on the same symbol from the menu on the left and then click somewhere in the 3D view, the circle will be placed at that location. This is the 3D cursor. When you add an object, the object will be placed at the location of the 3D cursor.
+Si haces clic en el mismo símbolo del menú de la izquierda y luego haces clic en algún lugar de la vista 3D, el círculo se colocará en esa ubicación. Este es el cursor 3D. Cuando añadas un objeto, este se colocará en la ubicación del cursor 3D.
 
-+ Select this Cursor tool and make sure your mouse is somewhere inside the 3D view and left-click — close to the tree trunk might be handy. Notice that the 3D cursor is at the position where you clicked.
++ Selecciona la herramienta Cursor y asegúrate de que tu mouse se encuentra dentro de la vista 3D y haz clic izquierdo; sería mejor que sea cerca del tronco del árbol. Observa que el cursor 3D aparece en el lugar donde hiciste clic.
 
-+ Add a cube by selecting **Mesh** > **Cube** from the **Add** dropdown menu.
++ Añade un cubo seleccionando **Malla** > **Cubo** en el menu desplegable **Agregar**.
 
-+ Click somewhere else in the 3D view (but still close to the tree trunk) and add another cube. For example:
++ Haz clic en otro lugar de la vista 3D (no te alejes mucho del tronco del árbol) y añade otro cubo. Por ejemplo:
 
-![Blender 2 cubes](images/blender-2-cubes.png)
+![Blender mostrando 2 cubos](images/blender-2-cubes.png)
 
-+ Once again, click somewhere else in the 3D view and add another cube.
++ Una vez más, haz clic en algún otro lugar de la vista 3D y añade otro cubo.
 
-Now there are three cubes in the 3D view. You can use the blue, green, and red handles again to move the cubes to the top of the tree trunk to make it look like a tree.
+Ahora hay tres cubos en la vista 3D. Puedes volver a utilizar los controles azul, verde y rojo para mover los cubos hacia la parte superior del tronco y que se parezca un árbol.
 
-+ From the menu below the 3D view, select the move gizmo so that you can move the cubes.
++ En el menú que aparece debajo de la vista 3D, selecciona la herramienta mover para que puedas mover los cubos.
 
-![Move gizmo](images/gizmos.png)
+![Herramienta Mover](images/gizmos.png)
 
-+ Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
++ Mueve los cubos hacia la parte superior del tronco y colócalos de manera que se vea como un árbol. Por ejemplo:
 
-![Blender tree](images/blender-tree-1.png)
+![Árbol en Blender](images/blender-tree-1.png)
 
-+ Rotate the 3D view using the middle mouse button and check that the tree looks okay from all angles, adjusting where necessary. For example:
++ Rota la vista 3D utilizando el botón central del mouse y verifica que el árbol se vea bien desde todos los ángulos; haz modificaciones donde sea necesario. Por ejemplo:
 
-![Blender tree](images/blender-tree-2.png)
+![Árbol en Blender](images/blender-tree-2.png)
 
-The image above shows that the cubes are not positioned properly on the tree trunk.
+La imagen de arriba muestra que los cubos no están ubicados correctamente en el tronco del árbol.
