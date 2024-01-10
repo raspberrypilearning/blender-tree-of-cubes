@@ -40,7 +40,7 @@
 
 इस परियोजना के GitHub भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
 
-यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/BvMwAQ2cXWg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/BvMwAQ2cXWg" frameborder="0" allowfullscreen></iframe> 
 
 ### लाइसेंस
 
