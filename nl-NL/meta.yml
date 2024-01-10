@@ -2,7 +2,7 @@
 title: Kubusboom
 hero_image: images/banner.png
 description: Leer om objecten van grootte te veranderen in Blender door een simpele boom van kubussen te maken
-theme: yellow #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: yellow
 duration: 2
 listed: true
 ingredient: false
@@ -22,11 +22,15 @@ steps:
     title: Objecten selecteren
   - 
     title: Objecten toevoegen
+    completion:
+      - engaged
   - 
     title: Maak een boomstam
   - 
     title: Voeg takken en bladeren toe
   - 
     title: Renderen
+    completion:
+      - internal
   - 
-    title: "Uitdaging: dennenboom"
+    title: 'Uitdaging: dennenboom'
