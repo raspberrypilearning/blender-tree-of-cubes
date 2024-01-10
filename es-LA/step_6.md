@@ -1,21 +1,21 @@
-## Render
+## Procesar
 
-To see how your tree looks, you need to see it from the perspective of the camera by rendering the image:
+Para ver cómo luce tu árbol, necesitarás verlo desde la perspectiva de la cámara procesando la imagen:
 
-+ Press <kbd>F12</kbd> or, if you're working on a Mac, <kbd>FN + F12</kbd>.
++ Presiona <kbd>F12</kbd> o, si trabajas en Mac, <kbd>FN + F12</kbd>.
 
-It could be that you don't see the tree properly, or perhaps it doesn't look very tree-like from the camera view. For example:
+Podría suceder que no veas el árbol correctamente o que quizás no luzca como un árbol desde la vista de la cámara. Por ejemplo:
 
-![Tree render](images/blender-tree-render-1.png)
+![Árbol procesado](images/blender-tree-render-1.png)
 
-+ Press <kbd>ESC</kbd> to exit the view.
++ Presiona <kbd>ESC</kbd> para salir de la vista.
 
-+ If the tree didn't look very tree-like, you might want to rearrange the cubes a bit.
++ Si el árbol no se parecía mucha a un árbol, es posible que quieras reorganizar un poco los cubos.
 
-+ If your tree didn't fit into the camera's view, move the camera so that the tree shows up properly through the camera.
++ Si tu árbol no cabía en la vista de la cámara, mueve la cámara para que se pueda apreciar el árbol correctamente.
 
-+ Hit <kbd>F12</kbd> again or, if you're working on a Mac, <kbd>FN + F12</kbd> to see the rendered image.
++ Vuelve a presionar <kbd>F12</kbd> o, si trabajas desde una Mac, <kbd>FN + F12</kbd> para ver la imagen procesada.
 
-![Tree render](images/blender-tree-render-2.png)
+![Árbol procesado](images/blender-tree-render-2.png)
 
-You can also play around with the lamp to improve the lighting of your tree.
+También puedes jugar un poco con la lámpara para mejorar la iluminación de tu árbol.
