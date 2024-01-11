@@ -1,0 +1,29 @@
+---
+title: Árbol de cubos
+hero_image: images/banner.png
+description: Aprende a modificar el tamaño de los objetos en Blender creando un árbol simple de cubos
+theme: yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: weather, art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2017-01-01
+steps:
+  - title: Introducción
+  - title: Seleccionar objetos
+  - title: Añadir objetos
+    completion:
+      - engaged
+  - title: Crear el tronco de un árbol
+  - title: Añadir ramas y hojas
+  - title: Procesar
+    completion:
+      - internal
+  - title: 'Desafío: pino'
