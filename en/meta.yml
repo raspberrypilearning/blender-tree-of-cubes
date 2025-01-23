@@ -27,3 +27,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: pine tree'
+  completion:
+  - external
