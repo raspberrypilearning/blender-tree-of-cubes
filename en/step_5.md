@@ -22,7 +22,7 @@ Now there are three cubes in the 3D view. You can use the blue, green, and red h
 
 + From the menu below the 3D view, select the move gizmo so that you can move the cubes.
 
-![Move gizmo](images/gizmos.png)
+![Move gizmo](images/move-gizmo.png)
 
 + Move the cubes on top of the tree trunk in a tree-like arrangement. For example:
 

@@ -1,6 +1,6 @@
 ## Selecting objects
 
-When you open Blender, you will see a splash screen. The splash screen of Blender 2.81 looks like this:
+When you open Blender, you will see a splash screen. The splash screen of Blender 4.3.2 looks like this:
 
 ![Splash screen](images/splash-screen.png)
 
