@@ -26,4 +26,3 @@ steps:
   - title: Procesar
     completion:
       - internal
-  - title: 'Desafío: pino'
